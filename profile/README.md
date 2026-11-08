@@ -1,13 +1,11 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tatustack/.github/main/profile/teo.png" alt="Teo, o tatu — mascote do TatuStack" width="160" />
-
-# TatuStack 🛡️
+# 🛡️ TatuStack
 
 ### A AWS do jeito certo, sem você precisar entender a AWS.
 
 *Suba suas aplicações em uma conta AWS só sua — segura, otimizada e Well-Architected de fábrica.*
-*Sem console. Sem VPC. Sem susto na fatura. Você conversa com o **Teo**, e o app sobe.*
+*Sem console. Sem VPC. Sem susto na fatura. Você conversa com o **Teo** (o tatu), e o app sobe.* 🚀
 
 </div>
 
