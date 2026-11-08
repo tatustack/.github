@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/354128276?v=4&s=180" alt="Teo, o tatu — mascote do TatuStack" width="170" style="border-radius:24px" />
+
 # 🛡️ TatuStack
 
 ### A AWS do jeito certo, sem você precisar entender a AWS.
